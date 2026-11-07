@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/quran-php-surah-makki-madani",
+  "description": "Makki vs Madani Surah Stylometric Classifier (مصنف السور المكية والمدنية بالخصائص الأسلوبية)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
